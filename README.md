@@ -3,12 +3,12 @@ Build my Custom Arch Linux ISO from an existing installation of Arch Linux with 
 
 # Cooking Instructions
 
-###1. Prerequisites - 
+### 1. Prerequisites - 
 1. An existing Arch Linux installation. Some distributions provide arch-install-scripts, however they have not been tested yet.
 2. `archiso` package from `extra` repository.
 3. `git`.
 
-###2. Cooking
+### 2. Cooking
 1. `git clone https://github.com/sattopadhyay/mkarchiso`
 2. `sudo mkarchiso -v mkarchiso`
 3. Wait patiently. The resulting ISO will be in the `out/` folder in the working directory.
