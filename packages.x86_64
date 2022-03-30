@@ -8,6 +8,5 @@ pv
 qemu-guest-agent
 syslinux
 networkmanager
-neovim
 nano
 git
