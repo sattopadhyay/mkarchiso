@@ -14,3 +14,4 @@ util-linux
 btrfs-progs
 archinstall
 parted
+dosfstools
