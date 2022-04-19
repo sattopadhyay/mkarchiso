@@ -10,3 +10,7 @@ syslinux
 networkmanager
 nano
 git
+util-linux
+btrfs-progs
+archinstall
+parted
